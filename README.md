@@ -153,7 +153,7 @@ Enterprise Java/Spring Boot development on **IBM Sterling Order Management** for
 </details>
 
 <details>
-<summary><b>B.E. Electronics and Communication Engineering</b> — Anna University, Tamil Nadu</summary>
+<summary><b>Bachelor of mechanical engineering </b> — Anna University, Tamil Nadu</summary>
 <br>
 
 - Participated in ESVC/HSVC automotive vehicle challenges
